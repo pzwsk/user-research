@@ -18,5 +18,6 @@ Entretiens avec :
 * [Nicolas Barthe-Dejean](interviews/20170711-nicolas/index.md)
 * [Pascal Romain](interviews/20170711-pascal/index.md)
 * [Paul-Antoine Chevalier](interviews/20170803-paul-antoine/index.md)
+* [Alexiane Lerouge](interviews/20170904-alexiane/index.md)
 
 [datagouv]: https://data.gouv.fr/
